@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <movie id="1980">
+        <title>Kramer vs. Kramer</title>
+        <date>1979//12/19</date>
+            <director>
+                <name>Robert Benton</name>
+                <birthplace>Waxahachie, Texas</birthplace>
+                    <country>USA</country>
+            </director>
+        <leadcast>
+            <lead1 gender="male">Dustin Hoffman</lead1>
+            <lead2 gender="female">Meryl Streep</lead2>
+            <lead3 gender="female">Jane Alexander</lead3>
+        </leadcast>
+       <genres>
+            <genre>Drama</genre>
+       </genres>
+        <description>
+            Ted Kramer's wife leaves her husband, allowing for a lost bond to be rediscovered between Ted and his son, Billy. But a heated custody battle ensues over the divorced couple's son, deepening the wounds left by the separation.</description>
+    </movie>
+    <movie id="1981">
+        <title>Ordinary People</title>
+        <date>1981/02/26</date>
+            <director>
+                <name>Robert Redford</name>
+                <birthplace>Santa Monica, California</birthplace>
+                    <country>USA</country>
+            </director>
+        <leadcast>
+            <lead1 gender="male">Donald Sutherland</lead1>
+            <lead2 gender="female">Mary Tyler Moore</lead2>
+            <lead3 gender="male">Judd Hirsch</lead3>
+        </leadcast>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <description>The accidental death of the older son of an affluent family deeply strains the relationships among the bitter mother, the good-natured father, and the guilt-ridden younger son.</description>
+    </movie>
+    <movie id="1982">
+        <title>Chariots of Fire</title>
+        <date>1982/04/09</date>
+            <director>
+                <name>Hugh Hudson</name>
+                <birthplace>London, England</birthplace>
+                    <country>United Kingdom</>
+            </director>
+        <leadcast>
+            <lead1 gender="male">Ben Cross</lead1>
+            <lead2 gender="male">Ian Charleson</lead2>
+            <lead3 gender="male">Nicholas Farrell</lead3>
+        </leadcast>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>Sport</genre>
+        </genres>
+        <description>Two British track athletes, one a determined Jew, and the other a devout Christian, compete in the 1924 Olympics.</description>
+    </movie>
+    <movie id="1983">
+        <title>Gandhi</title>
+        <date>1983/02/25</date>
+            <director>
+                <name>Richard Attenborough</name>
+                <birthplace>Cambridgeshire, England</birthplace>
+                    <country>United Kingdom</country>
+            </director>
+        <leadcast>
+            <lead1 gender="male>">Ben Kingsley</lead1>
+            <lead2 gender="male">John Gielgud</lead2>
+            <lead3 gender="female">Candice Bergen</lead3>
+        </leadcast>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+        </genres>
+        <description>Gandhi's character is fully explained as a man of nonviolence. Through his patience, he is able to drive the British out of the subcontinent. And the stubborn nature of Jinnah and his commitment towards Pakistan is portrayed.</description>
+    </movie>
+    <movie id="1984">
+        <title>Terms of Endearment</title>
+        <date>1983/12/09</date>
+            <director>
+                <name>James L. Brooks</name>
+                <birthplace>Brooklyn, New York</birthplace>
+                    <country>USA</country>
+            </director>
+        <leadcast>
+            <lead1 gender="female">Shirley Maclaine</lead1>
+            <lead2 gender="female">Debra Winger</lead2>
+            <lead3 gender="male">Jack Nicholson</lead3>
+        </leadcast>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+        <description>Follows hard-to-please Aurora looking for love, and her daughter's family problems.</description>
+    </movie>
+    <movie id="1985">
+        <title>Amadeus</title>
+        <date>1984/09/19</date>
+            <director>
+                <name>Milos Forman</name>
+                <birthplace>Caslav, Czecholslovakia</birthplace>
+                <country>Czech Republic</country>
+            </director>
+        <leadcast>
+            <lead1 gender="male">F. Murray Abraham</lead1>
+            <lead2 gender="male">Tom Hulce</lead2>
+            <lead3 gender="female">Elizabeth Berridge</lead3>
+        </leadcast>
+        <genres>
+            <genre>Bigraphy</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+            <genre>Music</genre>
+        </genres>
+        <description>The incredible story of Wolfgang Amadeus Mozart, told by his peer and secret rival Antonio Salieri - now confined to an insane asylum.</description>
+    </movie>
+    <movie id="1986">
+        <title>Out of Africa</title>
+        <date>1985/12/20</date>
+            <director>
+                <name>Sydney Pollack</name>
+            </director>
+        <leadcast>
+            <lead1 gender="female">Meryl Streep</lead1>
+            <lead2 gender="male">Robert Redford</lead2>
+            <lead3 gender="male">Klaus Maria Brandauer</lead3>
+        </leadcast>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <description>In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.</description>
+    </movie>
+    <movie id="1987">
+        <title>Platoon</title>
+        <date>1987/02/06</date>
+            <director>
+                <name>Oliver Stone</name>
+                <birthplace>New York City, New York</birthplace>
+                    <country>USA</country>
+            </director>
+        <leadcast>
+            <lead1 gender="male">Charlie Sheen</lead1>
+            <lead2 gender="male">Tom Berenger</lead2>
+            <lead3 gender="male">Willem Dafoe</lead3>
+        </leadcast>
+        <genres>
+            <genre>Drama</genre>
+            <genre>War</genre>
+        </genres>
+        <description>A young soldier in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.</description>
+    </movie>
+    <movie id="1988">
+        <title>The Last Emperor</title>
+        <date>1988/04/15</date>
+            <director>
+                <name>Bernardo Bertolucci</name>
+                <birthplace>Parma, Emilia-Romagna</birthplace>
+                    <country>Italy</country>
+            </director>
+        <leadcast>
+            <lead1 gender="male">John Lone</lead1>
+            <lead2 gender="female">Joan Chen</lead2>
+            <lead3 gender="male">Peter O'Toole</lead3>
+        </leadcast>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+        </genres>
+        <description>The story of the final Emperor of China.</description>
+    </movie>
+    <movie id="1989">
+        <title>Rain Man</title>
+        <date>1988/12/16</date>
+        <director>
+            <name>Barry Levinson</name>
+            <birthplace>Baltimore, Maryland</birthplace>
+                <country>USA</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Dustin Hoffman</lead1>
+            <lead2 gender="male">Tom Cruise</lead2>
+            <lead3 gender="female">Valeria Golino</lead3>
+        </leadcast>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <description>Selfish yuppie Charlie Babbitt's father left a fortune to his savant brother Raymond and a pittance to Charlie; they travel cross-country.</description>
+    </movie>
+    <movie id="1990">
+        <title>Driving Miss Daisy</title>
+        <date>1990/01/26</date>
+        <director>
+            <name>Bruce Beresford</name>
+            <birthplace>Sydney, New South Wales</birthplace>
+                <country>Australia</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Morgan Freeman</lead1>
+            <lead2 gender="female">Jessica Tandy</lead2>
+            <lead3 gender="male">Dan Akroyd</lead3>
+        </leadcast>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <description>An old Jewish woman and her African-American chauffeur in the American South have a relationship that grows and improves over the years.</description>
+    </movie>
+    <movie id="1991">
+        <title>Dances With Wolves</title>
+        <date>1990/11/21</date>
+        <director>
+            <name>Kevin Costner</name>
+            <birthplace>Lynwood, California</birthplace>
+                <country>USA</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Kevin Costner</lead1>
+            <lead2 gender="female">Mary McDonnell</lead2>
+            <lead3 gender="male">Graham Greene</lead3>
+        </leadcast>
+        <genres>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>Western</genre>
+        </genres>
+        <description>Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Indians, making him an intolerable aberration in the military.</description>
+    </movie>
+    <movie id="1992">
+        <title>The Silence of the Lambs</title>
+        <date>1991/02/14</date>
+        <director>
+            <name>Jonthan Demme</name>
+            <birthplace>Baldwin, Long Island, New York</birthplace>
+                <country>USA</country>
+        </director>
+        <leadcast>
+            <lead1 gender="female">Jodie Foster</lead1>
+            <lead2 gender="male">Anthony Hopkins</lead2>
+            <lead3 gender="male">Lawrence A. Bonney</lead3>
+        </leadcast>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <description>A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.</description>
+    </movie>
+    <movie id="1993">
+        <title>Unforgiven</title>
+        <date>1992/08/07</date>
+        <director>
+            <name>Clint Eastwood</name>
+            <birthplace>San Francisco, California</birthplace>
+            <country>USA</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Clint Eastwood</lead1>
+            <lead2 gender="male">Gene Hackman</lead2>
+            <lead3 gender="male">Morgan Freeman</lead3>
+        </leadcast>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Western</genre>
+        </genres>
+        <description>Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner and a young man.
+        </description>
+    </movie>
+    <movie id="1994">
+        <title>Schindler's List</title>
+        <date>1994/02/04</date>
+        <director>
+            <name>Steven Spielberg</name>
+            <birthplace>Cincinnati, Ohio</birthplace>
+            <country>USA</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Liam Neeson</lead1>
+            <lead2 gender="male">Ralph Fiennes</lead2>
+            <lead3 gender="male">Ben Kingsley</lead3>
+        </leadcast>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+        </genres>
+        <description>In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans.
+        </description>
+    </movie>
+    <movie id="1995">
+        <title>Forrest Gump</title>
+        <date>1994/07/06</date>
+        <director>
+            <name>Robert Zemekis</name>
+            <birthplace>Chicago, Illinois</birthplace>
+            <country>USA</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Tom Hanks</lead1>
+            <lead2 gender="female">Robin Wright</lead2>
+            <lead3 gender="male">Gary Sinise</lead3>
+        </leadcast>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <description>The presidencies of Kennedy and Johnson, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.
+        </description>
+    </movie>
+    <movie id="1996">
+        <title>Braveheart</title>
+        <date>1995/05/24</date>
+        <director>
+            <name>Mel Gibson</name>
+            <birthplace>Peekskill, New York</birthplace>
+            <country>USA</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Mel Gibson</lead1>
+            <lead2 gender="female">Sophie Marceau</lead2>
+            <lead3 gender="male">Patrick McGoohan</lead3>
+        </leadcast>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+            <genre>War</genre>
+        </genres>
+        <description>When his secret bride is executed for assaulting an English soldier who tried to rape her, Sir William Wallace begins a revolt against King Edward I of England.</description>
+    </movie>
+    <movie id="1997">
+        <title>The English Patient</title>
+        <date>1996/12/06</date>
+        <director>
+            <name>Anthony Minghella</name>
+            <birthplace>Ryde, Isle of Wight, England</birthplace>
+            <country>UK</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Ralph Fiennes</lead1>
+            <lead2 gender="female">Juliette Binoche</lead2>
+            <lead3 gender="male">Willem Dafoe</lead3>
+        </leadcast>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+            <genre>War</genre>
+        </genres>
+        <description>At the close of WWII, a young nurse tends to a badly-burned plane crash victim. His past is shown in flashbacks, revealing an involvement in a fateful love affair.</description>
+    </movie>
+    <movie id="1998">
+        <title>Titanic</title>
+        <date>1997/12/19</date>
+        <director>
+            <name>James Cameron</name>
+            <birthplace>Kapuskasing, Ontario</birthplace>
+            <country>Canada</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Leonardo DiCaprio</lead1>
+            <lead2 gender="female">Kate Winslet</lead2>
+            <lead3 gender="male">Billy Zane</lead3>
+        </leadcast>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <description>A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.</description>
+    </movie>
+    <movie id="1999">
+        <title>Shakespeare in Love</title>
+        <date>1999/01/08</date>
+        <director>
+            <name>John Madden</name>
+            <birthplace>Portsmouth, Hampshire, England</birthplace>
+            <country>UK</country>
+        </director>
+        <leadcast>
+            <lead1 gender="female">Gwyneth Platrow</lead1>
+            <lead2 gender="male">Joseph Fiennes</lead2>
+            <lead3 gender="male">Geoffrey Rush</lead3>
+        </leadcast>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+            <genre>Romance</genre>
+        </genres>
+        <description>A young Shakespeare, out of ideas and short of cash, meets his ideal woman and is inspired to write one of his most famous plays.
+        </description>
+    </movie>
+    <movie id="2000">
+        <title>American Beauty</title>
+        <date>1999/10/01</date>
+        <director>
+            <name>Sam Mendes</name>
+            <birthplace>Reading, Berkshire, England</birthplace>
+            <country>UK</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Kevin Spacey</lead1>
+            <lead2 gender="female">Annette Benning</lead2>
+            <lead3 gender="female">Thora Birch</lead3>
+        </leadcast>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <description>A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.</description>
+    </movie>
+    <movie id="2001">
+        <title>Gladiator</title>
+        <date>2000/05/05</date>
+        <director>
+            <name>Ridley Scott</name>
+            <birthplace>South Shields, Tyne and Wear, England</birthplace>
+            <country>UK</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Russell Crowe</lead1>
+            <lead2 gender="male">Joaquin Phoenix</lead2>
+            <lead3 gender="female">Connie Nielsen</lead3>
+        </leadcast>
+        <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+        </genres>
+        <description>When a Roman General is betrayed, and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.</description>
+    </movie>
+    <movie id="2002">
+        <title>A Beautiful Mind</title>
+        <date>2002/01/04</date>
+        <director>
+            <name>Ron Howard</name>
+            <birthplace>Duncan, Oklahoma</birthplace>
+            <country>USA</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Russell Crowe</lead1>
+            <lead2 gender="male">Ed Harris</lead2>
+            <lead3 gender="female">Jennifer Connelly</lead3>
+        </leadcast>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+        </genres>
+        <description>After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.</description>
+    </movie>
+    <movie id="2003">
+        <title>Chicago</title>
+        <date>2003/01/24</date>
+        <director>
+            <name>Rob Marshall</name>
+            <birthplace>Madison, Wisconsin</birthplace>
+            <country>USA</country>
+        </director>
+        <leadcast>
+            <lead1 gender="female">Renee Zellweger</lead1>
+            <lead2 gender="female">Catherine Zeta-Jones</lead2>
+            <lead3 gender="male">Richard Gere</lead3>
+        </leadcast>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Crime</genre>
+            <genre>Musical</genre>
+        </genres>
+        <description>Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago.
+        </description>
+    </movie>
+    <movie id="2004">
+        <title>The Lord of the Rings: The Return of the King</title>
+        <date>2003/12/17</date>
+        <director>
+            <name>Peter Jackson</name>
+            <birthplace>Pekerua Bay, North Island</birthplace>
+            <country>New Zealand</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Elijah Wood</lead1>
+            <lead2 gender="male">Viggo Mortensen</lead2>
+            <lead3 gender="male">Ian McKellen</lead3>
+        </leadcast>
+        <genres>
+            <genre>Adventure</genre>
+            <genre>Drama</genre>
+            <genre>Fantasy</genre>
+        </genres>
+        <description>Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.
+        </description>
+    </movie>
+    <movie id="2005">
+        <title>Million Dollar Baby</title>
+        <date>2005/01/28</date>
+        <director>
+            <name>Clint Eastwood</name>
+            <birthplace>San Francisco, California</birthplace>
+            <country>USA</country>
+        </director>
+        <leadcast>
+            <lead1 gender="female">Hilary Swank</lead1>
+            <lead2 gender="male">Clint Eastwood</lead2>
+            <lead3 gender="male">Morgan Freeman</lead3>
+        </leadcast>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Sport</genre>
+        </genres>
+        <description>A determined woman works with a hardened boxing trainer to become a professional.
+        </description>
+    </movie>
+    <movie id="2006">
+    <title>Crash</title>
+    <date>2005/05/06</date>
+    <director>
+        <name>Paul Haggis</name>
+        <birthplace>London, Ontario</birthplace>
+        <country>Canada</country>
+    </director>
+    <leadcast>
+        <lead1 gender="male">Don Cheadle</lead1>
+        <lead2 gender="female">Sandra Bullock</lead2>
+        <lead3 gender="female">Thandie Newton</lead3>
+    </leadcast>
+    <genres>
+        <genre>Crime</genre>
+        <genre>Drama</genre>
+        <genre>Thriller</genre>
+    </genres>
+    <description>Los Angeles citizens with vastly separate lives collide in interweaving stories of race, loss and redemption.
+    </description>
+</movie>
+    <movie id="2007">
+    <title>The Departed</title>
+    <date>2006/10/06</date>
+    <director>
+        <name>Martin Scorsese</name>
+        <birthplace>Queens, New York City, New York</birthplace>
+        <country>USA</country>
+    </director>
+    <leadcast>
+        <lead1 gender="male">Leonardo Dicaprio</lead1>
+        <lead2 gender="male">Matt Damon</lead2>
+        <lead3 gender="male">Jack Nicholson</lead3>
+    </leadcast>
+    <genres>
+        <genre>Crime</genre>
+        <genre>Drama</genre>
+        <genre>Thriller</genre>
+    </genres>
+    <description>An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+    </description>
+</movie>
+    <movie id="2008">
+    <title>No Country For Old Men</title>
+    <date>2007/11/21</date>
+    <director>
+        <name>The Cohen Brothers, Joel, Ethan</name>
+        <birthplace>Minneapolis, Minnesota</birthplace>
+        <country>USA</country>
+    </director>
+    <leadcast>
+        <lead1 gender="male">Tommy Lee Jones</lead1>
+        <lead2 gender="male">Javier Bardem</lead2>
+        <lead3 gender="male">Josh Brolin</lead3>
+    </leadcast>
+    <genres>
+        <genre>Crime</genre>
+        <genre>Drama</genre>
+        <genre>Thriller</genre>
+    </genres>
+    <description>Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.
+    </description>
+</movie>
+    <movie id="2009">
+        <title>Slumdog Millionaire</title>
+        <date>2008/12/25</date>
+        <director>
+            <name>Danny Boyle</name>
+            <birthplace>Manchester, England</birthplace>
+            <country>UK</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Dev Patel</lead1>
+            <lead2 gender="female">Frieda Pinto</lead2>
+            <lead3 gender="male">Saurabh Shukla</lead3>
+        </leadcast>
+        <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <description>A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of "Who Wants to be a Millionaire?"
+        </description>
+    </movie>
+    <movie id="2010">
+        <title>The Hurt Locker</title>
+        <date>2009/07/31</date>
+        <director>
+            <name>Kathryn Bigelow</name>
+            <birthplace>San Carlos, California</birthplace>
+            <country>USA</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Jeremy Renner</lead1>
+            <lead2 gender="male">Anthony Mackie</lead2>
+            <lead3 gender="male">Brian Geraghty</lead3>
+        </leadcast>
+        <genres>
+            <genre>Drama</genre>
+            <genre>History</genre>
+            <genre>Thriller</genre>
+            <genre>War</genre>
+        </genres>
+        <description>During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.
+        </description>
+    </movie>
+    <movie id="2011">
+        <title>The King's Speech</title>
+        <date>2010/12/25</date>
+        <director>
+            <name>Tom Hooper</name>
+            <birthplace>London, England</birthplace>
+            <country>UK</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Colin Firth</lead1>
+            <lead2 gender="male">Geoffrey Rush</lead2>
+            <lead3 gender="female">Helena Bonham Carter</lead3>
+        </leadcast>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+        </genres>
+        <description>The story of King George VI of the United Kingdom of Great Britain and Northern Ireland, his impromptu ascension to the throne and the speech therapist who helped the unsure monarch become worthy of it.
+        </description>
+    </movie>
+    <movie id="2012">
+        <title>The Artist</title>
+        <date>2012/01/20</date>
+        <director>
+            <name>Michael Hazanavicius</name>
+            <birthplace>Paris, France</birthplace>
+            <country>France</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Jean Dujardin</lead1>
+            <lead2 gender="female">Berenice Beho</lead2>
+            <lead3 gender="male">John Goodman</lead3>
+        </leadcast>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+        </genres>
+        <description>A silent movie star meets a young dancer, but the arrival of talking pictures sends their careers in opposite directions.
+        </description>
+    </movie>
+    <movie id="2013">
+        <title>Argo</title>
+        <date>2012/10/12</date>
+        <director>
+            <name>Ben Affleck</name>
+            <birthplace>Berkeley, California</birthplace>
+            <country>USA</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Ben Affleck</lead1>
+            <lead2 gender="male">Bryan Cranston</lead2>
+            <lead3 gender="male">John Goodman</lead3>
+        </leadcast>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <description>Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.
+        </description>
+    </movie>
+    <movie id="2014">
+        <title>12 Years a Slave</title>
+        <date>2013/11/08</date>
+        <director>
+            <name>Steve McQueen</name>
+            <birthplace>London, England</birthplace>
+            <country>UK</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Chiwetel Ejiofor</lead1>
+            <lead2 gender="male">Michael Kenneth Williams</lead2>
+            <lead3 gender="male">Michael Fassbender</lead3>
+        </leadcast>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+        </genres>
+        <description>In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.
+        </description>
+    </movie>
+    <movie id="2015">
+        <title>Birdman (The Unexpected Virtue of Ignorance)</title>
+        <date>2014/11/14</date>
+        <director>
+            <name>Alejandro G. Inarritu</name>
+            <birthplace>Mexico City, Destrito Federal</birthplace>
+            <country>Mexico</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Michael Keaton</lead1>
+            <lead2 gender="male">Zach Galifianakis</lead2>
+            <lead3 gender="male">Edward Norton</lead3>
+        </leadcast>
+        <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+        </genres>
+        <description>A washed-up actor, who once played an iconic superhero, attempts to revive his career by writing and starring in his very own Broadway play.
+        </description>
+    </movie>
+    <movie id="2016">
+        <title>Spotlight</title>
+        <date>2015/11/20</date>
+        <director>
+            <name>Tom McCarthy</name>
+            <birthplace>Providence, New Jersey</birthplace>
+            <country>USA</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Mark Ruffalo</lead1>
+            <lead2 gender="male">Michael Keaton</lead2>
+            <lead3 gender="female">Rachel McAdams</lead3>
+        </leadcast>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+        </genres>
+        <description>The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.
+        </description>
+    </movie>
+    <movie id="2017">
+        <title>Moonlight</title>
+        <date>2016/11/18</date>
+        <director>
+            <name>Barry Jenkins</name>
+            <birthplace>Miami, Florida</birthplace>
+            <country>USA</country>
+        </director>
+        <leadcast>
+            <lead1 gender="male">Mahershala Ali</lead1>
+            <lead2 gender="male">Shariff Earp</lead2>
+            <lead3 gender="male">Duan Sanderson</lead3>
+        </leadcast>
+        <genres>
+            <genre>Drama</genre>
+        </genres>
+        <description>A chronicle of the childhood, adolescence and burgeoning adulthood of a young, African-American, gay man growing up in a rough neighborhood of Miami.
+        </description>
+    </movie>
+</library>
+
